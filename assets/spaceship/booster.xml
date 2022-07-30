@@ -1,0 +1,6 @@
+<TextureAtlas imagePath="spaceship/booster.png">
+	<SubTexture name="booster_1.png" x="1" y="1" width="107" height="188"/>
+	<SubTexture name="booster_2.png" x="110" y="1" width="107" height="188"/>
+	<SubTexture name="booster_3.png" x="219" y="1" width="107" height="188"/>
+	<SubTexture name="booster_4.png" x="328" y="1" width="107" height="188"/>
+</TextureAtlas>
